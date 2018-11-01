@@ -8,4 +8,4 @@ Git's fun.
 Git push test!
 
 
-create a branch dev & simple.
+create a branch dev and simple.
